@@ -58,12 +58,12 @@ I’m currently diving deeper into **AI-powered analytics 🤩**, exploring how 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Madhura-Kalambe&show_icons=true&theme=tokyonight&hide_border=true" alt="Madhura's GitHub Stats" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Madhura-Kalambe&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165">
+  <img src="https://github-readme-stats.vercel.app/api?username=madhurakalambe&show_icons=true&theme=tokyonight&hide_border=true" alt="Madhura's GitHub Stats" height="165">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=madhurakalambe&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165">
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Madhura-Kalambe&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="180">
+  <img src="https://streak-stats.demolab.com/?user=madhurakalambe&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="180">
 </p>
 
 ---
