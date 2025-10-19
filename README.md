@@ -78,6 +78,9 @@ I’m currently diving deeper into **AI-powered analytics 🤩**, exploring how 
   <a href="https://github.com/madhurakalambe">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
+  <a href="https://www.linkedin.com/in/madhura-kalambe-7b305923a/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
 </p>
 
 ---
